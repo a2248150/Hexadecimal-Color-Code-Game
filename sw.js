@@ -7,12 +7,12 @@ self.addEventListener('install', function(event) {
         '/',
         '/index.html',
         '/style.css',
+        '/incon-192x192.png',
+        '/incon-256x256.png',
+        '/incon-384x384.png',
+        '/incon-512x512.png',
         '/myscript.js',
-		'/sw.js',
-		'/icons/icon-192x192.png',
-		'/icons/icon-256x256.png',
-		'/icons/icon-384x384.png',
-		'/icons/icon-512x512.png'
+        '/notfound.txt'
       ]);
     })
   );
